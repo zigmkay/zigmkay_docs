@@ -1,0 +1,8 @@
+[book]
+authors = ["Stephan (Rollercole) Møller"]
+language = "en"
+src = "src"
+title = "zigmkay - firmware for mechanical keyboards made in zig"
+
+[build]
+build-dir = "docs"
